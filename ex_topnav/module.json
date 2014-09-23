@@ -1,0 +1,9 @@
+{
+    "id": "ex_topnav",
+    "name": "Example - Top Navigation",
+    "description": "Example which adds an top navigation item",
+    "keywords": [
+        "core"
+    ],
+    "version": "1.0"
+}
