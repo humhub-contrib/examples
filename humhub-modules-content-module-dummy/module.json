@@ -1,0 +1,10 @@
+{
+    "id": "contentmoduledummy",
+    "name": "Content Module Dummy",
+    "description": "Dummy module to customize.",
+    "keywords": ["dummy"],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.1"
+    }
+}
