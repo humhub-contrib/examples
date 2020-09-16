@@ -1,4 +1,8 @@
-humhub-modules-examples
-=======================
+Module Examples (Outdated)
+==========================
 
-Some module examples 
+
+Please see:
+- [DevTools Module](https://github.com/humhub-contrib/devtools) for a module generator 
+- [Basic Example Module](https://github.com/humhub/humhub-modules-example-basic)
+
